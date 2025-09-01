@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a freshman from University of Toronto, specializing in Physics
+I'm a sophomore from University of Toronto, specializing in Physics
 
 
 <!--
